@@ -1,0 +1,3 @@
+[submodule "ios/SLRemoting"]
+	path = ios/SLRemoting
+	url = git@github.com:strongloop/strong-remoting-clients.git
