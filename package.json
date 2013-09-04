@@ -1,9 +1,10 @@
 {
-    "name": "loopback-clients",
-    "version": "1.0.0",
-    "description": "A collection of client SDK implementations for the LoopBack framework.",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/strongloop/loopback-clients.git"
-    }
+  "name": "loopback-clients",
+  "version": "1.0.0",
+  "description": "A collection of client SDK implementations for the LoopBack framework.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strongloop/loopback-clients.git"
+  },
+  "license": "MIT"
 }
