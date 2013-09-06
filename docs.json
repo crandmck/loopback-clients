@@ -1,6 +1,13 @@
 {
+  "assets": {
+    "/ios/api": "ios/docs/html"
+  },
   "content": [
     "README.md",
-    "ios/docs/Subclassing.md"
+    "ios/README.md",
+    "ios/docs/GettingStarted.md",
+    "ios/docs/Subclassing.md",
+    "android/README.md",
+    "js/README.md"
   ]
 }
