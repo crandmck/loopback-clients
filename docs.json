@@ -1,6 +1,7 @@
 {
   "assets": {
-    "/ios/api": "ios/docs/html"
+    "/ios/api": "ios/docs/html",
+    "/ios/img": "ios/docs/img"
   },
   "content": [
     "README.md",
